@@ -1,5 +1,5 @@
 ################################################################################################
-#### This code is for Exploring the Titanic Data Set
+#### This code is for the Fraud Detection Kaggle Competition
 ## Created: August 21, 2019
 ## Edited:
 ################################################################################################
