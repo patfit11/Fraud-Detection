@@ -7,4 +7,4 @@ This is a simple log regression model utilizing only 4 main factors which yielde
 
 However, for now, this was a great exercse in coding graphs using the ggplot2 package in R.
 
-The files Fraud_xgb and sub2 are from the simple XGBoost model that bumped up my score significantly and pushed me 230 places up the leaderboard.  This was an improvement over my baseline logisitc regression model and will continue working to improve my placing in this competition.
+The files Fraud_xgb and sub2 are from the simple XGBoost model that bumped up my score significantly and pushed me 230 places up the leaderboard.  This was an improvement over my baseline logisitc regression model and I will continue working to improve my placing in this competition.
